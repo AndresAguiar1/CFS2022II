@@ -1,0 +1,8 @@
+Que es un objeto? es una instancia de una clase
+Que es una clase? es un molde, define las caracteristicas de un objeto
+A que se llama metodo constructor? es una función que permite creae un objeto/instancia a partir de los parametros que se le pase.
+Que son los modificadores de acceso? definen que tipo de acceso va tener el usuario al sistema
+Que diferencia hay entre uno privado y uno protegido? privado sólo se ´puede acceder desde la clase y el protected se puede acceder desde cualquier clase que herede de la clase padre
+Cuando se usa el this? al momento de la creacion del constructor y para acceder al valor que tiene declarado el atributo y/o método.
+Cuando se usa el super? hay que usarlo sí p sí al momento der la herencia, trae todos los atributos y métodos de la clase padre.
+A que se llama sub-clase, o clase hija? a la clase heredada de la clase padre.
